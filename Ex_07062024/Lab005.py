@@ -50,13 +50,13 @@ print(type(shopping_list))
 # Append this function add items to list at end
 shopping_list.append("curd")
 print(shopping_list)
-#extend function helps to put more items in list
+# extend function helps to put more items in list
 shopping_list.extend(["salt", "sugar"])
 print(shopping_list)
-#remove function helps to remove items in list
+# remove function helps to remove items in list
 shopping_list.remove("salt")
 print(shopping_list)
-#pop function helps to remove last items in list and show in console
+# pop function helps to remove last items in list and show in console
 shopping_list.pop()
 print(shopping_list)
 print(shopping_list.index("milk"))
@@ -64,4 +64,8 @@ shopping_list[0] = "himanth"
 print(shopping_list)
 shopping_list.sort()
 print(shopping_list)
+# set() function help us to store unique items.
+my_set = {1, 2, 3, 4, 5, 5}
+print(my_set)
+
 
