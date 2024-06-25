@@ -41,7 +41,7 @@ manoj = make_pizza("panner", "cheeze")
 
 
 def prepare_pizza(*topings, bases):
-    print(topings, bases)
+    print(bases, topings)
 
 
-himanth = prepare_pizza("tomato", "paneer", bases="small")
+himanth = prepare_pizza("tomato", "paneer", bases="thick crust")
