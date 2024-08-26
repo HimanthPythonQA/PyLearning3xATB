@@ -13,3 +13,5 @@ c = a/b
 print("result ", c)
 
 # if we enter any different data type its an error// or 0
+import os
+print(os.getcwd())

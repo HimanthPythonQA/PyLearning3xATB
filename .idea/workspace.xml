@@ -4,26 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ed3980-37d4-45ea-b1d9-5246406d54f2" name="Changes" comment="adding  task file 36 to 47 Inheritance,polymorphism,method over riding. abstraction">
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/TestData2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Td.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/himanth.txt" afterDir="false" />
+    <list default="true" id="d1ed3980-37d4-45ea-b1d9-5246406d54f2" name="Changes" comment="adding  task file 71 to 77 fixture, reading files">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_JULY/Ex_24072024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_JULY/Ex_24072024/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_24072024/Lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/TestData2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_01072024/TestData2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab049.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab059.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/Td.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/Td.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/TestData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/TestData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03072024/himanth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EX_JULY/Ex_03072024/himanth.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +52,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -65,6 +80,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Lab067.test_get_single_request_by_id.executor": "Run",
+    "Python tests.Python tests for Lab072.test_i_need_confirm.executor": "Run",
+    "Python tests.Python tests for Lab073.test_consume_sample_1_2.executor": "Run",
+    "Python tests.Python tests for Lab074.test_consume_sample_1_2.executor": "Run",
+    "Python tests.Python tests for Test_lab064.test_addition.executor": "Run",
+    "Python tests.Python tests for Test_lab064.test_subt.executor": "Run",
+    "Python tests.Python tests for test_Lab075.test_update_req.executor": "Run",
+    "Python tests.Python tests for test_Lab076.Test_CRUD.executor": "Run",
+    "Python tests.Python tests for test_Lab076.Test_CRUD.test_update_1.executor": "Run",
+    "Python tests.Python tests in Lab074.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003 (1).executor": "Run",
@@ -125,15 +150,24 @@
     "Python.Lab057.executor": "Run",
     "Python.Lab058.executor": "Run",
     "Python.Lab060.executor": "Run",
+    "Python.Lab061 (1).executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
     "Python.Task01.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab061">
-    <configuration name="Lab057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Himanth\PycharmProjects\PyLearning3xATB\EX_JULY" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab076.Test_CRUD.test_update_1">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_JULY/Ex_26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_JULY/Ex_26072024/conftest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,101 +189,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab058" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab075.test_update_req" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_JULY/Ex_26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab058.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab075.test_update_req&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab076.Test_CRUD" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_JULY/Ex_26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Himanth\PycharmProjects\PyLearning3xATB\Ex_03072024\Lab059.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab076.Test_CRUD&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab076.Test_CRUD.test_update_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_JULY/Ex_26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab060.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab076.Test_CRUD.test_update_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab074.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_JULY/Ex_26072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab061.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/EX_JULY/Ex_26072024/test_Lab074.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab061" />
-        <item itemvalue="Python.Lab060" />
-        <item itemvalue="Python.Lab058" />
-        <item itemvalue="Python.Lab059" />
-        <item itemvalue="Python.Lab057" />
+        <item itemvalue="Python tests.Python tests for test_Lab076.Test_CRUD.test_update_1" />
+        <item itemvalue="Python tests.Python tests for test_Lab076.Test_CRUD" />
+        <item itemvalue="Python tests.Python tests for test_Lab075.test_update_req" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.Python tests in test_Lab074.py" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +403,55 @@
       <option name="project" value="LOCAL" />
       <updated>1721118354904</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="adding  task file 48 to 60 exceptions, exception handling,data reading, data writing, reading line/lines, csv &amp; txt">
+      <option name="closed" value="true" />
+      <created>1722786235977</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722786235977</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adding  task file 61,62,testdata.txt,apitesting.md">
+      <option name="closed" value="true" />
+      <created>1723745503548</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723745503548</updated>
+    </task>
+    <task id="LOCAL-00019" summary="adding  task file 63 to 66 pytest,allure,allure/reports/annotations">
+      <option name="closed" value="true" />
+      <created>1723745858798</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723745858798</updated>
+    </task>
+    <task id="LOCAL-00020" summary="adding  task file 67 to 70 pytest,allure reports">
+      <option name="closed" value="true" />
+      <created>1724318218859</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724318218859</updated>
+    </task>
+    <task id="LOCAL-00021" summary="adding  task file 67 to 70 pytest,allure reports">
+      <option name="closed" value="true" />
+      <created>1724644953605</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724644953605</updated>
+    </task>
+    <task id="LOCAL-00022" summary="adding  task file 71 to 77 fixture, reading files">
+      <option name="closed" value="true" />
+      <created>1724645183241</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724645183241</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -415,6 +469,11 @@
     <MESSAGE value="adding  task file 25 to 29 oops,class,objects,constructor" />
     <MESSAGE value="adding  task file 30 to 36 encapsulation,public,protcted,private. class variables, instance variables., geter, seter" />
     <MESSAGE value="adding  task file 36 to 47 Inheritance,polymorphism,method over riding. abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding  task file 36 to 47 Inheritance,polymorphism,method over riding. abstraction" />
+    <MESSAGE value="adding  task file 48 to 60 exceptions, exception handling,data reading, data writing, reading line/lines, csv &amp; txt" />
+    <MESSAGE value="adding  task file 61,62,testdata.txt,apitesting.md" />
+    <MESSAGE value="adding  task file 63 to 66 pytest,allure,allure/reports/annotations" />
+    <MESSAGE value="adding  task file 67 to 70 pytest,allure reports" />
+    <MESSAGE value="adding  task file 71 to 77 fixture, reading files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding  task file 71 to 77 fixture, reading files" />
   </component>
 </project>

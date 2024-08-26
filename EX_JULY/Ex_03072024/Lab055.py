@@ -18,7 +18,7 @@
 import os
 print(os.getcwd())
 cwd = os.getcwd()
-file = open("TestData.txt",'r')
+file = open("TestData.txt", 'r')
 content = file.read()
 print(content)
 file.close()
